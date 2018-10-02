@@ -1,0 +1,7 @@
+# Requirements
+
+- Python 3.4.2+
+- pip
+- discord.py
+- `aiohttp` library
+- `websockets` library
